@@ -1,7 +1,7 @@
 {
-    Description: "The App Description",
-    More: "More Info"
-    Prices: [
+    "Description": "The App Description",
+    "More": "More Info"
+    "Prices": [
         {
             "id": 1,
             "price": "$100",
