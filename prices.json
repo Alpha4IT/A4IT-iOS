@@ -1,0 +1,49 @@
+{
+    Description: "The App Description",
+    More: "More Info"
+    Prices: [
+        {
+            "id": 1,
+            "price": "$100",
+            "os": "iOS",
+            "type": "Public",
+            "level": "Schools",
+            "img": "http://www.serebii.net/pokemongo/pokemon/001.png"},
+        {
+            "id": 2,
+            "price": "$500",
+            "os": "iOS",
+            "type": "Private",
+            "level": "Schools",
+            "img": "http://www.serebii.net/pokemongo/pokemon/001.png"},
+        {
+            "id": 3,
+            "price": "$100",
+            "os": "iOS",
+            "type": "Public",
+            "level": "Colleges",
+            "img": "http://www.serebii.net/pokemongo/pokemon/001.png"},
+        {
+            "id": 4,
+            "price": "$500",
+            "os": "iOS",
+            "type": "Private",
+            "level": "Colleges",
+            "img": "http://www.serebii.net/pokemongo/pokemon/001.png"},
+        {
+            "id": 5,
+            "price": "$100",
+            "os": "iOS",
+            "type": "Public",
+            "level": "Universities",
+            "img": "http://www.serebii.net/pokemongo/pokemon/001.png"},
+        {
+            "id": 6,
+            "price": "$500",
+            "os": "iOS",
+            "type": "Private",
+            "level": "Universities",
+            "img": "http://www.serebii.net/pokemongo/pokemon/001.png"}
+    ]
+
+}
