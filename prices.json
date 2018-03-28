@@ -1,4 +1,6 @@
 {
-    "PublicSchool":"Public School iOS APP $100",
-    "PrivateSchool":"Private School iOS APP $500"
+    "PublicApp":"$200",
+    "PrivateApp":"$500",
+    "PublicSite":"$200",
+    "PrivateSite":"$300"
 }
